@@ -1,0 +1,28 @@
+_repo: A-Jay-of-Italy_44114
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44114-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Capes, Bernard Edward Joseph
+    birthdate: 1854
+    deathdate: 1918
+    gutenberg_agent_id: '5344'
+    url: http://www.gutenberg.org/2009/agents/5344
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Capes
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2013-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Italy -- History -- 476-1492 -- Fiction'
+title: A Jay of Italy
+url: http://www.gutenberg.org/ebooks/44114
